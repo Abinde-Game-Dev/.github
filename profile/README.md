@@ -18,12 +18,12 @@
 ![python](https://img.shields.io/pypi/pyversions/Abinde)
 ![version](https://img.shields.io/pypi/v/Abinde)
 
+Abinde is a python module for pygame.
+
 ## Now Happening
 
 - Finishing `sprite` classes for v2.0
 - __You__ are invited to join! Abinde is completely open-source!
-
-Abinde is a python module for pygame.
 
 ## Please Note
 
