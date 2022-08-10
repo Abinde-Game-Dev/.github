@@ -22,7 +22,6 @@ Abinde is a python module for pygame.
 
 ## Now Happening
 
-- Finishing `sprite` classes for v2.0
 - __You__ are invited to join! Abinde is completely open-source!
 
 ## Please Note
