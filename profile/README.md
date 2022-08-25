@@ -20,10 +20,6 @@
 
 Abinde is a python module for pygame.
 
-## Now Happening
-
-- __You__ are invited to join! Abinde is completely open-source!
-
 ## Please Note
 
 To use this module, you will need at least some experience with coding python.
